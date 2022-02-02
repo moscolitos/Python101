@@ -9,6 +9,6 @@
 
 ## Working with text
 
-### Text to speech
+### Text to Speech
 - Listen to articles using google text to speech
 
