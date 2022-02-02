@@ -3,10 +3,14 @@
 
 ## Fundamentals
 
+### Tutorials
 - Getting started with Python and Jupyter
 - Understanding variables and data types
 - Working with directories
 
+### Practice Notebooks
+- Numbers, string and lists crash test
+- 
 
 ## Working with text
 
