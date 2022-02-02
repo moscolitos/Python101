@@ -1,6 +1,7 @@
 # Python101
 
 
+## Fundamentals
 
 - Getting started with Python and Jupyter
 - Understanding variables and data types
