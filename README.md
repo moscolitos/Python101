@@ -1,4 +1,4 @@
-# Python101
+# Python 101
 
 
 ## Fundamentals
