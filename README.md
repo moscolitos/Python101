@@ -3,6 +3,23 @@
 
 ## Fundamentals
 
+### Python 101
+
+- Python Installation in under 10 min
+- Python 101 - Variables and Data Types 1
+- Python 101 - Variables and Data Types 2
+- Conditional and booleans
+- Loops and iterators
+- Functions & modules
+- Working with external libraries
+- Failing succesfully : handling & log/reporting errors
+- Clean your working environement : Virtual env
+- Debugging 
+- Testing your code
+- Loging errors
+
+
+
 ### Tutorials
 - Getting started with Python and Jupyter
 - Understanding variables and data types
