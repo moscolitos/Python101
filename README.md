@@ -45,7 +45,11 @@
 - Selenium
 - SQLAlchemy
 - MongoDb
-- 
+
+
+
+## Working with tables
+
 
 ## Working with text
 
@@ -53,4 +57,17 @@
 
 ### Text to Speech
 - [Listen to articles using google text to speech](https://github.com/moscolitos/Python101/blob/main/Listen_Medium_Story_GttS.ipynb)
+
+
+## Working with images
+
+
+
+## Working with IOT data
+
+
+## Working with REST API
+
+
+
 
