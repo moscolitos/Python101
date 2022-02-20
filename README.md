@@ -23,13 +23,16 @@
 ### Tutorials
 - Getting started with Python and Jupyter
 - Understanding variables and data types
+- Understanding functions
 - Working with directories
 
 ### Practice Notebooks
-- Numbers, string and lists crash test
+- Python Crash Course
 - 
 
 ## Working with text
+
+### Text Mining
 
 ### Text to Speech
 - [Listen to articles using google text to speech](https://github.com/moscolitos/Python101/blob/main/Listen_Medium_Story_GttS.ipynb)
