@@ -18,6 +18,19 @@
 - Testing your code
 - Loging errors
 
+### Databases
+
+
+
+
+### Machine Learning 
+
+
+# Big Data Analytics
+
+### Spark Fundamentals
+
+
 
 
 ### Tutorials
@@ -28,6 +41,10 @@
 
 ### Practice Notebooks
 - Python Crash Course
+- Pandas Fundamentals
+- Selenium
+- SQLAlchemy
+- MongoDb
 - 
 
 ## Working with text
