@@ -20,8 +20,13 @@
 
 ### Databases
 
+### Data Analysis
+
+#### Overview of Python Libraries for Data Scientists
 
 
+
+### Statistical learning
 
 ### Machine Learning 
 
@@ -53,6 +58,7 @@
 
 ## Working with text
 
+
 ### Text Mining
 
 ### Text to Speech
@@ -61,6 +67,7 @@
 
 ## Working with images
 
+### Introduction to computer vision
 
 
 ## Working with IOT data
