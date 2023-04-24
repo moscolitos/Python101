@@ -4,8 +4,9 @@
 ## Fundamentals
 
 ### Python 101
-
+- Python Basics: Introduction
 - Python Installation in under 10 min
+- Python Syntax and Variables
 - Python 101 - Variables and Data Types 1
 - Python 101 - Variables and Data Types 2
 - Conditional and booleans
@@ -13,14 +14,36 @@
 - Functions & modules
 - Working with external libraries
 - Failing succesfully : handling & log/reporting errors
+- File Handling
+  - Project: File Backup Utility	Develop a utility that creates backup copies of files, handling file I/O and exceptions
 - Clean your working environement : Virtual env
 - Debugging 
 - Testing your code
-- Loging errors
+- Logging errors
+#Advances Topics
+- List Comprehensions and Generators
+- Regular Expressions
+- Decorators and Context Managers
+- Iterators and Iterables
+- Networking and APIs
+- Concurrency and Parallelism
+- Unit Testing and Debugging
+- Python Best Practices
+
 
 ### Databases
 
+
+
+
+
+
 ### Data Analysis
+
+
+
+
+
 
 #### Overview of Python Libraries for Data Scientists
 
