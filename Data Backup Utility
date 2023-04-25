@@ -1,0 +1,50 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Apr 24 16:57:07 2023
+
+@author: redou
+"""
+
+import os
+import shutil
+import sys
+
+class FileOperations:
+    def __init__(self, source, destination):
+        self.source = source
+        self.destination = destination
+
+    def copy_file(self, file_path):
+        shutil.copy2(file_path, self.destination)
+
+    def copy_directory(self, directory_path):
+        shutil.copytree(directory_path, os.path.join(self.destination, os.path.basename(directory_path)))
+
+class Backup(FileOperations):
+    def create_backup(self):
+        try:
+            if os.path.isfile(self.source):
+                self.copy_file(self.source)
+            elif os.path.isdir(self.source):
+                self.copy_directory(self.source)
+            else:
+                raise FileNotFoundError("Source not found")
+        except FileNotFoundError as e:
+            print(f"Error: {e}")
+        except Exception as e:
+            print(f"Error: {e}")
+
+
+if __name__ == "__main__":
+
+    if len(sys.argv) < 3:
+        print("Usage: python backup_utility.py <source> <destination>")
+        sys.exit(1)
+
+    source = sys.argv[1]
+    destination = sys.argv[2]
+
+    backup_instance = Backup(source, destination)
+    backup_instance.create_backup()
+
+    print("Backup completed successfully.")
