@@ -33,13 +33,15 @@
 
 ### Databases
 
-
+- Introduction to SQL
+- SQL Using python
 
 
 
 
 ### Data Analysis
-
+- Statistics in python
+- 
 
 
 
@@ -47,9 +49,14 @@
 
 #### Overview of Python Libraries for Data Scientists
 
-
+- Numpy
+- Pandas
+- Sklearn
+- ...
 
 ### Statistical learning
+
+
 
 ### Machine Learning 
 
@@ -57,7 +64,8 @@
 # Big Data Analytics
 
 ### Spark Fundamentals
-
+- Introduction to Spark
+- 
 
 
 
@@ -77,6 +85,9 @@
 
 
 ## Working with tables
+- Using Pandas
+- Using Excel
+- Using Google Sheets
 
 
 ## Working with text
